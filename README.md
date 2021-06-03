@@ -1,4 +1,4 @@
-# Grpc-Golang-projects
+# Grpc-Golang-services 
 
 ## Content
 * Greeting Service
