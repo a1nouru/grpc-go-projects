@@ -1,0 +1,11 @@
+
+//run this under calculator
+protoc calculatorpb/calculator.proto --go_out=plugins=grpc:.
+
+
+//run this under greet 
+protoc greetpb/greet.proto --go_out=plugins=grpc:.
+
+
+// run this under blog 
+protoc blogpb/blog.proto --go_out=plugins=grpc:.
